@@ -1,3 +1,4 @@
+# THE ASSIGNMENT:
 # Wzorce: Fabryki
 
 | Termin oddania | Punkty     |
